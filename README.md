@@ -109,7 +109,7 @@ bash inference_img.sh # for image
 bash inference_seq.sh # for sequence
 ```
 
-For inference with closed-source models, we provide scripts to generate predictions on the test sets of the four tasks. The resulting outputs are saved under the `/inference/close-sourced` directory. For each task, the files in its corresponding subdirectory are used as follows:
+For inference with closed-source models, we provide scripts to generate predictions on the test sets of the four tasks. The resulting outputs are saved under the `/inference/close_sourced` directory. For each task, the files in its corresponding subdirectory are used as follows:
 
 | Scripts              | Description                                                  |
 | -------------------- | ------------------------------------------------------------ |
