@@ -163,7 +163,7 @@ After all samples are evaluated, run `parse_gpt4_score.py` to compute the GPT4-S
 
 ## ✍️Citation
 
-If you find RULER-Bench helpful, please cite:
+If you find RadarQA helpful, please cite:
 
 ```bibtex
 @article{he2025radarqa,
